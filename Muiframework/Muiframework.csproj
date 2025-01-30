@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="BlankButton.png" />
+    <None Remove="default.png" />
+    <None Remove="Thumb.png" />
+    <None Remove="Volume.png" />
+  </ItemGroup>
+
+  <ItemGroup>	      
+	  <Resource Include="Images\BlankButton.png" />	      
+	  <Resource Include="Images\default.png" />
+	  <Resource Include="Fonts\SmoochSans-Light.ttf" />
+	  <Resource Include="Images\Thumb.png" />
+	  <Resource Include="Images\Volume.png" />
+  </ItemGroup>
+
+</Project>
