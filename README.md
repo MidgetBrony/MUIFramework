@@ -125,7 +125,7 @@ A **UITesting** project is included to help debug UI elements. This is **not req
 ---
 
 ## Contributors
-- **Your Name** - MidgetBrony
+**MidgetBrony**
 
 **Pull Requests are Welcome!** 🚀
 
